@@ -62,7 +62,7 @@ public class Main {
 
     private static void centerScreen(Shell shell) {
         // x,y 随意，后面会居中
-        shell.setBounds(0, 0, 400, 300);
+        shell.setBounds(0, 0, 550, 400);
 
         //获取屏幕高度和宽度
         int screenH = Toolkit.getDefaultToolkit().getScreenSize().height;
