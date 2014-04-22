@@ -1,3 +1,7 @@
+import meidator.AttributeColleague;
+import meidator.AttributeMediator;
+import meidator.Message;
+import model.AttrTextView;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionEvent;
 import org.eclipse.swt.events.SelectionListener;
@@ -14,12 +18,24 @@ import org.eclipse.swt.widgets.*;
  * <p/>
  * TODO
  */
-public class AttributeTabPage {
+public class AttributeTextViewTabPage extends AttributeColleague {
+
+    public static final String TAG = AttributeTextViewTabPage.class.getSimpleName();
 
     private Group mGroup;
+    private Text[] mAttrText;
 
-    public AttributeTabPage(Composite parent) {
+    public AttributeTextViewTabPage(Composite parent) {
+        name = TAG;
+
         initContentView(parent);
+        registerMediator();
+    }
+
+    private void registerMediator() {
+        AttributeMediator.getInstance().addColleague(this);
+        // TODO
+//        暂时 不考虑 destory，后期抽象出一个 onCreate() 和 onDestroy()
     }
 
     public Group getGroup() {
@@ -38,6 +54,8 @@ public class AttributeTabPage {
         fillLayout.type = SWT.VERTICAL;
         group.setLayout(fillLayout);
 
+
+        mAttrText = new Text[3];
         initChildAttrTextColor(group);
         initChildAttrTextSize(group);
         initChildAttrTextString(group);
@@ -55,24 +73,11 @@ public class AttributeTabPage {
         label.setText("颜色");
         final Text text = new Text(childGroup, SWT.MULTI);
         text.setText("#ff0000");
+        mAttrText[0] = text;
 
-        String colorString = text.getText();
-
-        final Button button = new Button(childGroup, SWT.MULTI);
+        final Button button = new Button(childGroup, SWT.BORDER);
+        button.addSelectionListener(mButtonSelectionListener);
         button.setText("设置");
-        button.addSelectionListener(new SelectionListener() {
-            @Override
-            public void widgetSelected(SelectionEvent e) {
-                // TODO
-//                text2.setForeground(new Color(parent.getDisplay(), 0, 255, 0));
-            }
-
-            @Override
-            public void widgetDefaultSelected(SelectionEvent e) {
-                // TODO
-            }
-        });
-
     }
 
     private void initChildAttrTextSize(Group group) {
@@ -87,7 +92,9 @@ public class AttributeTabPage {
         label.setText("尺寸");
         final Text text = new Text(childGroup, SWT.MULTI);
         text.setText("18dp");
-        final Button button = new Button(childGroup, SWT.MULTI);
+        mAttrText[1] = text;
+        final Button button = new Button(childGroup, SWT.BORDER);
+        button.addSelectionListener(mButtonSelectionListener);
         button.setText("设置");
     }
 
@@ -103,7 +110,37 @@ public class AttributeTabPage {
         label.setText("文本");
         final Text text = new Text(childGroup, SWT.MULTI);
         text.setText("click");
-        final Button button = new Button(childGroup, SWT.MULTI);
+        mAttrText[2] = text;
+        final Button button = new Button(childGroup, SWT.BORDER);
+        button.addSelectionListener(mButtonSelectionListener);
         button.setText("设置");
+    }
+
+    private AttrTextView mAttr = new AttrTextView();
+
+    @Override
+    public void refresh(AttrTextView textViewAttr) {
+        // TODO
+    }
+
+    private ButtonSelectionListener mButtonSelectionListener = new ButtonSelectionListener();
+
+    private class ButtonSelectionListener implements SelectionListener {
+
+        @Override
+        public void widgetSelected(SelectionEvent e) {
+            mAttr.setTextColor(mAttrText[0].getText());
+            mAttr.setTextSize(mAttrText[1].getText());
+            mAttr.setText(mAttrText[2].getText());
+
+            System.out.println(mAttr.dump());
+
+            send(new Message("attrMsg", mAttr));
+        }
+
+        @Override
+        public void widgetDefaultSelected(SelectionEvent e) {
+            // TODO
+        }
     }
 }
