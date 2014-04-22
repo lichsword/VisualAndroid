@@ -2,228 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5506a9cf-5684-4bf6-9eea-79df26bd1c37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/UI.rp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/allow_access.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/axure-chrome-extension.crx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/axure_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/case.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/extensions_menu.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/newwindow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/note.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64_3.102.1.v20140206-1358.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt_3.102.1.v20140206-1334.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/splitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/transparent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/u0_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u10_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u10_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/u11_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u12_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u14_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u17_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u19_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u1_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/u1_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u20_line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u21_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u24_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u26_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u27_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u27_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u28_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u29_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u29_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u2_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u30_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u30_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u31_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u31_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u32_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u32_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u33_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u34_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u37_image_sketch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u3_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u4_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u4_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u5_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u6_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u8_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/Other.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axprototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/axure_rp_page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axurerp_beforepagescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axurerp_pagescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificstyles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificstyles_ie6.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axutils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/chm_start.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/chrome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/data/configuration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/expand.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/jquery-ui-themes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/messagecenter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_swt_cocoa_macosx_x86_64_source_3_102_1_v20140206_1358.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/page_notes/styles/page_notes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/page_notes/page_notes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/reload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/sitemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/data/sitemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/sitemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/splitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/start.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AttributeTabPage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VisualAndroid.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398150037985" ignored="false" />
     <file path="/fragment.java" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398150278640" ignored="false" />
+    <file path="/Main.java" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398154515996" ignored="false" />
+    <file path="/AttributeGroup.java" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398154510199" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +84,18 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="29" selection-start="2969" selection-end="2969" vertical-scroll-proportion="0.23195876">
+            <state line="136" column="57" selection-start="4072" selection-end="4072" vertical-scroll-proportion="0.33247423">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttributeTabPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AttributeTabPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="25" selection-start="472" selection-end="480" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -322,12 +121,15 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/AttributeGroup.java" />
+        <option value="$PROJECT_DIR$/src/AttributeTabView.java" />
+        <option value="$PROJECT_DIR$/src/AttributeTabPage.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="142" />
+    <option name="x" value="55" />
     <option name="y" value="22" />
     <option name="width" value="1236" />
     <option name="height" value="760" />
@@ -558,8 +360,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="142" y="22" width="1236" height="760" extended-state="1" />
-    <editor active="false" />
+    <frame x="55" y="22" width="1236" height="760" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -575,12 +377,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24957983" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24957983" sideWeight="0.6703125" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -655,9 +457,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/widgets/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="7" selection-start="3431" selection-end="3431" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/widgets/Control.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3796" column="12" selection-start="122363" selection-end="122363" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/graphics/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/widgets/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="7" selection-start="3419" selection-end="3419" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/widgets/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="7" selection-start="2918" selection-end="2918" vertical-scroll-proportion="0.20821919">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/org/eclipse/swt/graphics/Device.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="58" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.33247423">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AttributeTabPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="472" selection-end="480" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="29" selection-start="2969" selection-end="2969" vertical-scroll-proportion="0.23195876">
+        <state line="136" column="57" selection-start="4072" selection-end="4072" vertical-scroll-proportion="0.33247423">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

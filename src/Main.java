@@ -16,7 +16,6 @@ import org.eclipse.swt.events.ControlAdapter;
 import org.eclipse.swt.events.ControlEvent;
 import org.eclipse.swt.events.SelectionAdapter;
 import org.eclipse.swt.events.SelectionEvent;
-import org.eclipse.swt.graphics.*;
 import org.eclipse.swt.graphics.Point;
 import org.eclipse.swt.graphics.Rectangle;
 import org.eclipse.swt.layout.FillLayout;
@@ -35,6 +34,8 @@ public class Main {
      */
     private static final long serialVersionUID = -2561591521749339934L;
 
+    private static Display sDisplay = null;
+
     /**
      * Launch the application.
      */
@@ -44,6 +45,7 @@ public class Main {
          * Link: http://www.eclipse.org/swt/faq.php#carbonapp.
          */
         Display display = new Display();
+        sDisplay = display;
         Shell shell = new Shell(display, SWT.SHELL_TRIM);
         shell.setLayout(new FillLayout());
         Main instance = new Main(shell);
@@ -138,8 +140,7 @@ public class Main {
         final Text text2 = new Text(sashComp, SWT.MULTI);
         text2.setText("text 2222");
 
-        final Text text3 = new Text(sashComp, SWT.MULTI);
-        text3.setText("text 3333");
+        final AttributeTabPage attributeTabPage = new AttributeTabPage(sashComp);
 
         // create sashes
         final Sash vSash1 = new Sash(sashComp, SWT.VERTICAL);
@@ -152,7 +153,7 @@ public class Main {
                 event.y = Math.min(Math.max(event.y, SASH_LIMIT), rect.height - SASH_LIMIT);
                 if (event.detail != SWT.DRAG) {
                     hSash.setBounds(event.x, event.y, event.width, event.height);
-                    layout(sashComp, hSash, vSash1, text1, text2, text3);
+                    layout(sashComp, hSash, vSash1, text1, text2, attributeTabPage.getGroup());
                 }
             }
         });
@@ -162,22 +163,23 @@ public class Main {
                 event.x = Math.min(Math.max(event.x, SASH_LIMIT), rect.width - SASH_LIMIT);
                 if (event.detail != SWT.DRAG) {
                     vSash1.setBounds(event.x, event.y, event.width, event.height);
-                    layout(sashComp, hSash, vSash1, text1, text2, text3);
+                    layout(sashComp, hSash, vSash1, text1, text2, attributeTabPage.getGroup());
                 }
             }
         });
         sashComp.addControlListener(new ControlAdapter() {
             public void controlResized(ControlEvent event) {
-                resized(sashComp, hSash, vSash1, text1, text2, text3);
+                resized(sashComp, hSash, vSash1, text1, text2, attributeTabPage.getGroup());
             }
         });
     }
+
 
     /**
      * Layout the list and text widgets according to the new positions of the
      * sashes..events.SelectionEvent
      */
-    void layout(Composite sashComp, Sash hSash, Sash vSash, Text text1, Text text2, Text text3) {
+    void layout(Composite sashComp, Sash hSash, Sash vSash, Text text1, Text text2, Group groupBottom) {
 
         Rectangle clientArea = sashComp.getClientArea();
         Rectangle hSashBounds = hSash.getBounds();
@@ -185,7 +187,7 @@ public class Main {
 
         text1.setBounds(0, 0, vSashBounds.x, hSashBounds.y);
         text2.setBounds(vSashBounds.x + vSashBounds.width, 0, clientArea.width - (vSashBounds.x + vSashBounds.width), hSashBounds.y);
-        text3.setBounds(0, hSashBounds.y + hSashBounds.height, clientArea.width, clientArea.height - (hSashBounds.y + hSashBounds.height));
+        groupBottom.setBounds(0, hSashBounds.y + hSashBounds.height, clientArea.width, clientArea.height - (hSashBounds.y + hSashBounds.height));
         /**
          * If the horizontal sash has been moved then the vertical sash is
          * either too long or too short and its size must be adjusted.
@@ -197,7 +199,7 @@ public class Main {
     /**
      * Handle the shell resized event.
      */
-    void resized(Composite sashComp, Sash hSash, Sash vSash, Text text1, Text text2, Text text3) {
+    void resized(Composite sashComp, Sash hSash, Sash vSash, Text text1, Text text2, Group groupBottom) {
 
         /* Get the client area for the shell */
         Rectangle clientArea = sashComp.getClientArea();
@@ -219,7 +221,7 @@ public class Main {
         * Make text 2 1/4 the width and half the height of the tab leaving room for the sash.
         * Place text 2 in the top right quadrant of the tab.
         */
-        text3.setBounds(0, text1Bounds.height + SASH_WIDTH, clientArea.width, clientArea.height - (text1Bounds.height + SASH_WIDTH));
+        groupBottom.setBounds(0, text1Bounds.height + SASH_WIDTH, clientArea.width, clientArea.height - (text1Bounds.height + SASH_WIDTH));
 
         /* Position the sashes */
         vSash.setBounds(text1Bounds.width, 0, SASH_WIDTH, text1Bounds.height);
