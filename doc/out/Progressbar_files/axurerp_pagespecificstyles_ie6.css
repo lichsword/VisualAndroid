@@ -1,0 +1,20 @@
+﻿* html .u1_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Progressbar_files/u1_normal.png");
+}
+
+* html .u3_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Progressbar_files/u3_normal.png");
+}
+
+* html .u5_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Progressbar_files/u5_normal.png");
+}
+
+* html .u10_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="Progressbar_files/u10_normal.png");
+}
+

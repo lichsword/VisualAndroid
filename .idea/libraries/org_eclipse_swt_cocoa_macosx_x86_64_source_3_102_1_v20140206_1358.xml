@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64_3.102.1.v20140206-1358.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar!/" />
+    </SOURCES>
+  </library>
+</component>

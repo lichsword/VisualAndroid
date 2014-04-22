@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5506a9cf-5684-4bf6-9eea-79df26bd1c37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/UI.rp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/allow_access.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/axure-chrome-extension.crx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/axure_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/case.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/extensions_menu.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/newwindow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/note.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt.cocoa.macosx.x86_64_3.102.1.v20140206-1358.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/org.eclipse.swt_3.102.1.v20140206-1334.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/page.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/splitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/u0_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u10_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u10_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/u11_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u12_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u14_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u17_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u19_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u1_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/u1_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u20_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u21_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u24_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u26_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u27_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u27_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u28_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u29_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u29_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u2_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u30_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u30_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u31_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u31_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u32_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u32_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u33_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u34_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/u37_image_sketch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u3_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/u4_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/u4_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/u5_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u6_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/u8_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/Other.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axprototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/axure_rp_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axurerp_beforepagescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axurerp_pagescript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificscript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificstyles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/axurerp_pagespecificstyles_ie6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/axutils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/chm_start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/chrome/chrome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/data/configuration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Activity_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Banner_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Button_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Chart_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Fragment_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/ListView_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/MVC_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/Progressbar_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图_files/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/expand.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/images/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/images/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/images/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/jquery-ui-1.8.10.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/jquery-ui-themes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/messagecenter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_swt_cocoa_macosx_x86_64_source_3_102_1_v20140206_1358.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/page_notes/styles/page_notes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/page_notes/page_notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/reload.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/styles/sitemap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/data/sitemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/plugins/sitemap/sitemap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/resources/scripts/splitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/主界面.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/任务进度条.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/协议设计.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/属性微调.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/工程树型浏览.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制台.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/控制器.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/搜索帮助文档.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/操作区域.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/数据库设计.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/文档区域.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/模型.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/浏览区域.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/盒模型.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/视图.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/输出区域.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/out/雷达图.html" />
+    </list>
+    <ignored path="VisualAndroid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398150037985" ignored="false" />
+    <file path="/fragment.java" changelist="5506a9cf-5684-4bf6-9eea-79df26bd1c37" time="1398150278640" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="VisualAndroid" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="sitemap.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/out/data/sitemap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="29" selection-start="2969" selection-end="2969" vertical-scroll-proportion="0.23195876">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="142" />
+    <option name="y" value="22" />
+    <option name="width" value="1236" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisualAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisualAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisualAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisualAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="VisualAndroid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/org.eclipse.swt_3.102.1.v20140206-1334.jar!/" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Visual Android">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VisualAndroid" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Visual Android" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="-XstartOnFirstThread" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="VisualAndroid" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Visual Android" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5506a9cf-5684-4bf6-9eea-79df26bd1c37" name="Default" comment="" />
+      <created>1398150035028</created>
+      <updated>1398150035028</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="142" y="22" width="1236" height="760" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24957983" sideWeight="0.6703125" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/out/data/sitemap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="29" selection-start="2969" selection-end="2969" vertical-scroll-proportion="0.23195876">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>VisualAndroid</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.eclipse.swt.cocoa.macosx.x86_64.source_3.102.1.v20140206-1358</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
