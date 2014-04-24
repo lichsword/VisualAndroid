@@ -1,6 +1,6 @@
 package meidator;
 
-import model.AttrTextView;
+import coder.textview.ModelTextView;
 
 /**
  * Created with IntelliJ IDEA.
@@ -42,12 +42,12 @@ public abstract class AttributeColleague extends Colleague {
         } // end if
 
         Object data = message.data;
-        if (data instanceof AttrTextView) {
-            refresh((AttrTextView) data);
+        if (data instanceof ModelTextView) {
+            refresh((ModelTextView) data);
         } else {
             // TODO log
         }
     }
 
-    public abstract void refresh(AttrTextView textViewAttr);
+    public abstract void refresh(ModelTextView textViewAttr);
 }

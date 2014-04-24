@@ -1,4 +1,4 @@
-package template;
+package javacode;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,25 +13,25 @@ import java.io.InputStreamReader;
  * <p/>
  * TODO
  */
-public class TemplateManager {
+public class JavaCodeTemplateManager {
 
     public static void main(String[] args) {
-        String result = TemplateManager.getInstance().get("singleton");
+        String result = JavaCodeTemplateManager.getInstance().get("singleton");
         System.out.println(result);
     }
 
-    public static final String TAG = TemplateManager.class.getSimpleName();
+    public static final String TAG = JavaCodeTemplateManager.class.getSimpleName();
 
-    private static TemplateManager sInstance;
+    private static JavaCodeTemplateManager sInstance;
 
-    public static TemplateManager getInstance() {
+    public static JavaCodeTemplateManager getInstance() {
         if (null == sInstance) {
-            sInstance = new TemplateManager();
+            sInstance = new JavaCodeTemplateManager();
         }// end if
         return sInstance;
     }
 
-    private TemplateManager() {
+    private JavaCodeTemplateManager() {
         // TODO
     }
 

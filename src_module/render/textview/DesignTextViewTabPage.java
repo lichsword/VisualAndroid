@@ -1,6 +1,8 @@
+package render.textview;
+
+import coder.textview.ModelTextView;
 import meidator.AttributeColleague;
 import meidator.AttributeMediator;
-import model.AttrTextView;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.graphics.Color;
 import org.eclipse.swt.layout.FillLayout;
@@ -15,7 +17,6 @@ import util.ColorUtil;
  * Date: 14-4-22
  * Time: 下午5:52
  * <p/>
- * TODO
  */
 public class DesignTextViewTabPage extends AttributeColleague {
 
@@ -68,7 +69,7 @@ public class DesignTextViewTabPage extends AttributeColleague {
     }
 
     @Override
-    public void refresh(AttrTextView textViewAttr) {
+    public void refresh(ModelTextView textViewAttr) {
         // TODO
         ColorUtil.RGBA rgba = ColorUtil.hexToRGBA(textViewAttr.getTextColor());
         if (null != rgba) {

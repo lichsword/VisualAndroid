@@ -1,4 +1,4 @@
-package model;
+package coder.textview;
 
 /**
  * Created with IntelliJ IDEA.
@@ -8,7 +8,7 @@ package model;
  * <p/>
  * TODO
  */
-public class AttrTextView {
+public class ModelTextView {
     private String textColor;
     private String textSize;
     private String text;

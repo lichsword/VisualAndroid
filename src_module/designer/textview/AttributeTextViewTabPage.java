@@ -1,7 +1,9 @@
+package designer.textview;
+
+import coder.textview.ModelTextView;
 import meidator.AttributeColleague;
 import meidator.AttributeMediator;
 import meidator.Message;
-import model.AttrTextView;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionEvent;
 import org.eclipse.swt.events.SelectionListener;
@@ -116,10 +118,10 @@ public class AttributeTextViewTabPage extends AttributeColleague {
         button.setText("设置");
     }
 
-    private AttrTextView mAttr = new AttrTextView();
+    private ModelTextView mAttr = new ModelTextView();
 
     @Override
-    public void refresh(AttrTextView textViewAttr) {
+    public void refresh(ModelTextView textViewAttr) {
         // TODO
     }
 
