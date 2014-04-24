@@ -21,6 +21,7 @@ import org.eclipse.swt.graphics.Rectangle;
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.*;
+import util.FileUtil;
 
 import java.awt.*;
 
@@ -58,6 +59,20 @@ public class Main {
         }
         instance.dispose();
         display.dispose();
+
+        test();
+    }
+
+    private static void test() {
+        // passed.
+//        String defaultDirPath = FileUtil.getDefaultDirPath();
+//        File outputDir = new File(defaultDirPath, "output");
+//        try {
+//            FileUtil.ensureDir(outputDir.getCanonicalPath());
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+        // TODO
     }
 
     private static void centerScreen(Shell shell) {
