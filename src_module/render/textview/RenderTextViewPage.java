@@ -1,7 +1,6 @@
 package render.textview;
 
 import coder.textview.ModelTextView;
-import designer.IPage;
 import meidator.AttributeColleague;
 import meidator.AttributeMediator;
 import org.eclipse.swt.SWT;
@@ -10,6 +9,7 @@ import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Control;
 import org.eclipse.swt.widgets.Text;
+import ui.IPage;
 import util.ColorUtil;
 
 /**
@@ -19,12 +19,12 @@ import util.ColorUtil;
  * Time: 下午5:52
  * <p/>
  */
-public class DesignTextViewPage extends AttributeColleague implements IPage {
+public class RenderTextViewPage extends AttributeColleague implements IPage {
 
-    public static final String TAG = DesignTextViewPage.class.getSimpleName();
+    public static final String TAG = RenderTextViewPage.class.getSimpleName();
 
 
-    public DesignTextViewPage(Composite parent) {
+    public RenderTextViewPage(Composite parent) {
         super(parent);
         name = TAG;
 

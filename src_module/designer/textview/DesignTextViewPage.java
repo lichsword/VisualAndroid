@@ -1,7 +1,6 @@
 package designer.textview;
 
 import coder.textview.ModelTextView;
-import designer.IPage;
 import meidator.AttributeColleague;
 import meidator.AttributeMediator;
 import meidator.Message;
@@ -11,6 +10,7 @@ import org.eclipse.swt.events.SelectionListener;
 import org.eclipse.swt.graphics.Rectangle;
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.*;
+import ui.IPage;
 
 
 /**
@@ -21,14 +21,14 @@ import org.eclipse.swt.widgets.*;
  * <p/>
  * TODO
  */
-public class AttributeTextViewTabPage extends AttributeColleague implements IPage {
+public class DesignTextViewPage extends AttributeColleague implements IPage {
 
-    public static final String TAG = AttributeTextViewTabPage.class.getSimpleName();
+    public static final String TAG = DesignTextViewPage.class.getSimpleName();
 
     private Composite mComposite;
     private Text[] mAttrText;
 
-    public AttributeTextViewTabPage(Composite parent) {
+    public DesignTextViewPage(Composite parent) {
         super(parent);
         name = TAG;
 

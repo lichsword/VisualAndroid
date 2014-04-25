@@ -1,12 +1,12 @@
-package render;
+package designer;
 
+import designer.codeusage.DesignCodeUsagePage;
+import designer.textview.DesignTextViewPage;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.ControlEvent;
 import org.eclipse.swt.events.ControlListener;
 import org.eclipse.swt.graphics.Rectangle;
 import org.eclipse.swt.widgets.*;
-import render.codeusage.RenderCodeUsagePage;
-import render.textview.RenderTextViewPage;
 import ui.IPage;
 import ui.Page;
 
@@ -19,17 +19,17 @@ import ui.Page;
  * <p/>
  * TODO
  */
-public class RenderPageGroup extends Page implements IPage {
+public class DesignerPageGroup extends Page implements IPage {
 
     private Composite mComposite;
     // child tab folders.
     private TabFolder mTabFolder;
 
-    public RenderPageGroup(Composite parent) {
+    public DesignerPageGroup(Composite parent) {
         super(parent);
         Group group = new Group(parent, SWT.NONE);
         mComposite = group;
-        group.setText("渲染器");
+        group.setText("设计器");
         group.addControlListener(mControlListener);
 
         mTabFolder = new TabFolder(group, SWT.NONE);
@@ -38,7 +38,7 @@ public class RenderPageGroup extends Page implements IPage {
         {
             TabItem tabItem = new TabItem(mTabFolder, SWT.NONE);
             tabItem.setText("TextView");
-            RenderTextViewPage page = new RenderTextViewPage(mTabFolder);
+            DesignTextViewPage page = new DesignTextViewPage(mTabFolder);
             tabItem.setControl(page.getControl());
         }
 
@@ -46,7 +46,7 @@ public class RenderPageGroup extends Page implements IPage {
         {
             TabItem tabItem = new TabItem(mTabFolder, SWT.NONE);
             tabItem.setText("Code Usage");
-            RenderCodeUsagePage page = new RenderCodeUsagePage(mTabFolder);
+            DesignCodeUsagePage page = new DesignCodeUsagePage(mTabFolder);
             tabItem.setControl(page.getControl());
         }
     }

@@ -11,8 +11,7 @@
  *
  ***********************************************************************/
 
-import designer.IPage;
-import designer.textview.AttributeTextViewTabPage;
+import designer.DesignerPageGroup;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.ControlAdapter;
 import org.eclipse.swt.events.ControlEvent;
@@ -24,6 +23,7 @@ import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.*;
 import render.RenderPageGroup;
+import ui.IPage;
 
 import java.awt.*;
 
@@ -157,7 +157,7 @@ public class Main {
 //        final IPage rightPage = new DesignTextViewTabPage(sashComp);
         final IPage rightPage = new RenderPageGroup(sashComp);
 
-        final IPage bottomPage = new AttributeTextViewTabPage(sashComp);
+        final IPage bottomPage = new DesignerPageGroup(sashComp);
 
         // create sashes
         final Sash vSash1 = new Sash(sashComp, SWT.VERTICAL);

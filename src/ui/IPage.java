@@ -1,7 +1,6 @@
-package designer;
+package ui;
 
 import org.eclipse.swt.widgets.Control;
-import org.eclipse.swt.widgets.Group;
 
 /**
  * Created with IntelliJ IDEA.
