@@ -1,6 +1,7 @@
 package meidator;
 
 import coder.textview.ModelTextView;
+import org.eclipse.swt.widgets.Composite;
 
 /**
  * Created with IntelliJ IDEA.
@@ -14,7 +15,8 @@ public abstract class AttributeColleague extends Colleague {
 
     protected String name;
 
-    public AttributeColleague() {
+    public AttributeColleague(Composite parent) {
+        super(parent);
         mediator = AttributeMediator.getInstance();
     }
 

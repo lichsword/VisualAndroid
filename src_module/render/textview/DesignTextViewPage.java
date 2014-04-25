@@ -9,7 +9,6 @@ import org.eclipse.swt.graphics.Color;
 import org.eclipse.swt.layout.FillLayout;
 import org.eclipse.swt.widgets.Composite;
 import org.eclipse.swt.widgets.Control;
-import org.eclipse.swt.widgets.Group;
 import org.eclipse.swt.widgets.Text;
 import util.ColorUtil;
 
@@ -20,13 +19,12 @@ import util.ColorUtil;
  * Time: 下午5:52
  * <p/>
  */
-public class DesignTextViewTabPage extends AttributeColleague implements IPage {
+public class DesignTextViewPage extends AttributeColleague implements IPage {
 
-    public static final String TAG = DesignTextViewTabPage.class.getSimpleName();
+    public static final String TAG = DesignTextViewPage.class.getSimpleName();
 
-    private Group mGroup;
 
-    public DesignTextViewTabPage(Composite parent) {
+    public DesignTextViewPage(Composite parent) {
         super(parent);
         name = TAG;
 
@@ -40,37 +38,28 @@ public class DesignTextViewTabPage extends AttributeColleague implements IPage {
         // TODO
     }
 
+    private Composite mComposite;
+
     private void initContentView(Composite parent) {
-        Group group = new Group(parent, SWT.NONE);
-        mGroup = group;
-        group.setText("设计 TextView");
+        mComposite = new Composite(parent, SWT.NONE);
+//        group.setText("设计 TextView");
 
         FillLayout fillLayout = new FillLayout();
         fillLayout.marginWidth = 10;
         fillLayout.marginHeight = 10;
         fillLayout.type = SWT.VERTICAL;
-        group.setLayout(fillLayout);
+        mComposite.setLayout(fillLayout);
 
-        initChildView(group);
+        initChildView(mComposite);
 
     }
 
-    private void initChildView(Group parent) {
-        Group childGroup = new Group(parent, SWT.VERTICAL);
-        FillLayout fillLayout = new FillLayout();
-        fillLayout.type = SWT.HORIZONTAL;
-        childGroup.setLayout(fillLayout);
-
-        mText = new Text(childGroup, SWT.MULTI);
+    private void initChildView(Composite parent) {
+        mText = new Text(parent, SWT.MULTI);
     }
 
 
     private Text mText;
-
-    @Deprecated
-    public Group getGroup() {
-        return mGroup;
-    }
 
     @Override
     public void refresh(ModelTextView textViewAttr) {
@@ -87,6 +76,6 @@ public class DesignTextViewTabPage extends AttributeColleague implements IPage {
 
     @Override
     public Control getControl() {
-        return null;  // TODO
+        return mComposite;  // TODO
     }
 }

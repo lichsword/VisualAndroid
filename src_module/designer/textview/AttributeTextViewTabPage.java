@@ -1,6 +1,7 @@
 package designer.textview;
 
 import coder.textview.ModelTextView;
+import designer.IPage;
 import meidator.AttributeColleague;
 import meidator.AttributeMediator;
 import meidator.Message;
@@ -20,14 +21,15 @@ import org.eclipse.swt.widgets.*;
  * <p/>
  * TODO
  */
-public class AttributeTextViewTabPage extends AttributeColleague {
+public class AttributeTextViewTabPage extends AttributeColleague implements IPage {
 
     public static final String TAG = AttributeTextViewTabPage.class.getSimpleName();
 
-    private Group mGroup;
+    private Composite mComposite;
     private Text[] mAttrText;
 
     public AttributeTextViewTabPage(Composite parent) {
+        super(parent);
         name = TAG;
 
         initContentView(parent);
@@ -40,14 +42,11 @@ public class AttributeTextViewTabPage extends AttributeColleague {
 //        暂时 不考虑 destory，后期抽象出一个 onCreate() 和 onDestroy()
     }
 
-    public Group getGroup() {
-        return mGroup;
-    }
 
     private void initContentView(final Composite parent) {
 
         Group group = new Group(parent, SWT.NONE);
-        mGroup = group;
+        mComposite = group;
         group.setText("属性");
 
         FillLayout fillLayout = new FillLayout();
@@ -126,6 +125,11 @@ public class AttributeTextViewTabPage extends AttributeColleague {
     }
 
     private ButtonSelectionListener mButtonSelectionListener = new ButtonSelectionListener();
+
+    @Override
+    public Control getControl() {
+        return mComposite;
+    }
 
     private class ButtonSelectionListener implements SelectionListener {
 
